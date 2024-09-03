@@ -1,0 +1,1 @@
+# Static-method-and-void
